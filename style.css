@@ -7,6 +7,12 @@ h1{
 
     font-size: 40px;
 }
+h2{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
 .colorful{
     color: orange;
 }
@@ -26,6 +32,7 @@ h1{
 }
 section{
     height: 500px;
+     padding-bottom: 50px;
 }
 .link-button{
  text-decoration: none;
@@ -34,4 +41,9 @@ section{
  border-radius: 10px;
  color: white;
  font-weight: bold;
+}
+.Dream-area{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
